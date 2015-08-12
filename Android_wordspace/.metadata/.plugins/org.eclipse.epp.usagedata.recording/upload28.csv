@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605294718
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605295078
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/3.6.",1347605302531
+error,log,,,"Unable to read repository at http://download.eclipse.org/koneki/updates-nightly/ldt.",1347605302843
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo/201106220900.",1347605303140
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/ptp/updates/indigo/.",1347605303468
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/indigo.",1347605303796
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/actf/0.9/update-site/.",1347605304109
+error,log,,,"Unable to read repository at http://download.eclipse.org/birt/update-site/3.7.",1347605304421
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/R20120119162704/repository.",1347605304718
+error,log,,,"Unable to read repository at http://www.mia-software.com/html/miaStudio/download/modisco/updates/content.xml.",1347605305015
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/releases/content.xml.",1347605308578
+error,log,,,"Unable to read repository at http://download.eclipse.org/windowbuilder/WB/integration/3.7/content.xml.",1347605309187
+error,log,,,"Unable to read repository at http://www.soyatec.com/update/site.xml.",1347605330921
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/updates/releases/content.xml.",1347605331453
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/eef/updates/0.7.1/content.xml.",1347605331984
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/tmf/updates/compositeContent.xml.",1347605332515
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/updates/compositeContent.xml.",1347605333031
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmt/modisco/updates/content.xml.",1347605354484
+error,log,,,"Unable to read repository at http://download.eclipse.org/datatools/updates/content.xml.",1347605354984
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/gef/updates/releases/content.xml.",1347605355515
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/updates/content.xml.",1347605356031
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo.",1347605359468
+error,log,,,"Error reading update site http://www.eclipse.org/modeling/emft/updates/.",1347605359765
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/cdt/releases/indigo.",1347605360046
+error,log,,,"Unable to read repository at http://download.eclipse.org/stp/updates/.",1347605360343
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/papyrus/updates/releases/.",1347605360640
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/mwe/updates/.",1347605360921
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605373734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605374109
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605375671
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605377312
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605379031
+started,bundle,org.eclipse.wb.os,1.1.0.r37x201109091012,"org.eclipse.wb.os",1347605381281
+started,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1347605381281
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1347605382546
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605390140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605396203
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605410625
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605412031
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1347605439890
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605441078
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1347605442359
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605444296
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605447468
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605447562
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605449421
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605460812
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605466281
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1347605489062
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1347605489140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605489265
+started,bundle,org.eclipse.wst.sse.ui,1.3.1.v201108191312,"org.eclipse.wst.sse.ui",1347605490468
+started,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1347605490546
+started,bundle,org.eclipse.wst.validation,1.2.302.v201107140600,"org.eclipse.wst.validation",1347605490843
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.200.v201103170332,"org.eclipse.wst.common.project.facet.core",1347605490843
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1347605490937
+started,bundle,org.eclipse.emf.common,2.7.0.v20110912-0920,"org.eclipse.emf.common",1347605490968
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605491109
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605491281
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605491375
+started,bundle,org.eclipse.wst.common.frameworks,1.2.101.v201107192200,"org.eclipse.wst.common.frameworks",1347605492593
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1347605492687
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605493078
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605493093
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1347605493562
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605495859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605508281
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1347605508375
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605510156
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605512937
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1347605513015
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605514984
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1347605516531
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1347605519046
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1347605519062
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605520953
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605523500
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605523640
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605528546
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605529625
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605529734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1347605532453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347605533171
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605533921
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605534031
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1347605536218
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347605537046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605537468
+started,bundle,org.eclipse.mylyn.java.tasks,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.tasks",1347605537953
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347605572765
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347605578218
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605609218
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605616015
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605621515
+opened,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.PropertySheet",1347605622093
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.PropertySheet",1347605622125
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605624859
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347605625921
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605627640
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605630515
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639828
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639843
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639875
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639890
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639906
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639921
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639937
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639953
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639953
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639968
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605639984
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640000
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640015
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640015
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640046
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640046
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640062
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640078
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640093
+error,log,,,"TableRowRule.onResizeUpdate() failed: java.lang.NullPointerException",1347605640093
+error,log,,,"TableRowRule.onResizeEnd() failed: java.lang.NullPointerException",1347605640343
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605642953
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.PropertySheet",1347605643640
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605645218
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605654515
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605659437
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605662046
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605671187
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605684109
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605690578
+error,log,,,"Unable to connect to repository https://dl-ssl.google.com/android/eclipse/site.xml",1347605697984
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/R20100519200754/repository.",1347605698281
+error,log,,,"Unable to read repository at http://download.eclipse.org/jwt/update-site.",1347605698593
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/gef/updates/milestones/.",1347605698890
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmf/updates/releases/.",1347605699187
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/emft/?project=search#search.",1347605699500
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/.",1347605699781
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo.",1347605703062
+error,log,,,"Unable to read repository at http://marketplace.eclipse.org/repo/.",1347605703406
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605719328
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605720437
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/updateSite.",1347605724656
+error,log,,,"Unable to read repository at http://download.eclipse.org/webtools/updates/.",1347605724984
+error,log,,,"Unable to read repository at http://download.eclipse.org/objectteams/updates/contrib.",1347605725312
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmt/modisco/updates/release.",1347605725625
+error,log,,,"Unable to read repository at http://download.eclipse.org/tehnology/babel/update-site/ganymede/.",1347605725921
+error,log,,,"Error reading update site http://dl-ssl.google.com/android/eclipse/.",1347605726203
+error,log,,,"Unable to read repository at http://download.eclipse.org/egit/updates.",1347605726500
+error,log,,,"Unable to read repository at http://download.eclipse.org/rt/rap/1.3/tooling.",1347605726796
+error,log,,,"Unable to read repository at http://download.eclipse.org/objectteams/updates/2.0.",1347605727125
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/helios/201009240900.",1347605727453
+started,bundle,org.eclipse.equinox.p2.director,2.1.0.v20110504-1715,"org.eclipse.equinox.p2.director",1347605727453
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110510,"org.eclipse.equinox.p2.garbagecollector",1347605727468
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605727546
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347605728484
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605730203
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605745640
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605748796
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605753859
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605756156
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605763921
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605767828
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347605769046
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605782218
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605785375
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605801296
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605808390
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605808484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605828031
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605828093
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605828109
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605830484
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605834171
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347605835609
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347605835609
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347605835625
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347605835625
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605835718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605835718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605835718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605835734
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605835734
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347605835750
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605836171
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605836296
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347605851625
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347605851859
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605853484
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.selectAll",1347605856234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347605857046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347605857421
+error,log,,,"search.xml: Failed to convert @drawable/login_back into a drawable",1347605861140
+error,log,,,"search.xml: Failed to convert @drawable/login_head into a drawable",1347605861140
+error,log,,,"search.xml: Failed to convert @drawable/qq_edit_login into a drawable",1347605861140
+error,log,,,"search.xml: Failed to convert @drawable/more_select into a drawable",1347605861156
+error,log,,,"search.xml: Failed to convert @drawable/qq_edit_login into a drawable",1347605861156
+error,log,,,"search.xml: Failed to convert @drawable/qq_btn_check into a drawable",1347605861171
+error,log,,,"search.xml: Failed to convert @drawable/bottom into a drawable",1347605861328
+error,log,,,"search.xml: Failed to convert @drawable/option into a drawable",1347605861328
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605876250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605881562
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605928281
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605929953
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1347605935140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605940656
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605941312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347605941343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1347605946875
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347605948468
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347605948468
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347605948484
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347605948484
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605948484
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605948500
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605948500
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605948500
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347605948515
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347605948515
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347605950812
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347605950812
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347605950828
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347605950828
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347605950828
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347605950875

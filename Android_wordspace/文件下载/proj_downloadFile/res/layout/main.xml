@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center">
+	
+	<LinearLayout android:orientation="horizontal" android:gravity="center"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<ProgressBar android:id="@+id/downloadProgressBar"
+		android:layout_width="wrap_content" android:layout_height="wrap_content" />
+	<TextView android:layout_width="fill_parent" android:id="@+id/progressMessage"
+		android:layout_height="wrap_content"  />
+	</LinearLayout>
+
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:text="下载链接：" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		<EditText android:id="@+id/downloadUrl" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:paddingLeft="30dp"
+			android:text="http://192.168.100.114:8080/proj_myweb/file/zhong.mp3" />
+	</LinearLayout>
+
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:text="文件名：" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		<EditText android:id="@+id/downloadFileName"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:hint="请输入下载的文件名" />
+	</LinearLayout>
+
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:text="线程数：" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+	<EditText android:id="@+id/downloadThreadNum"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:hint="请输入需要的线程数" />
+		</LinearLayout>
+		
+	<Button android:id="@+id/downloadBt" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="开始下载" />
+		
+		
+</LinearLayout>

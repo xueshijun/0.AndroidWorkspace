@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Documents and Settings\Administrator\×ÀÃæ\Xueshijun_Workspaces\Android_wordspace\.metadata\.plugins\org.eclipse.jdt.core
+15060378.index
+2312828833.index
+2527405142.index
+2529596798.index

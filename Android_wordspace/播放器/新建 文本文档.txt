@@ -1,0 +1,271 @@
+view sourceprint?01 /*变量声明*/ 
+
+02 private ImageButton playBtn = null;//播放、暂停  
+
+03 private ImageButton latestBtn = null;//上一首  
+
+04 private ImageButton nextButton = null;//下一首  
+
+05 private ImageButton forwardBtn = null;//快进  
+
+06 private ImageButton rewindBtn = null;//快退  
+
+07 private TextView playtime = null;//已播放时间  
+
+08 private TextView durationTime = null;//歌曲时间  
+
+09 private SeekBar seekbar = null;//歌曲进度  
+
+10 private Handler handler = null;//用于进度条  
+
+11 private Handler fHandler = null;//用于快进  
+
+12 private int currentPosition;//当前播放位置 
+
+[代码] 获得上一个activity传来的数据
+view sourceprint?01 @Override 
+
+02 protected void onCreate(Bundle savedInstanceState) {  
+
+03     super.onCreate(savedInstanceState);  
+
+04     setContentView(R.layout.play);  
+
+05     Intent intent = this.getIntent();  
+
+06     Bundle bundle = intent.getExtras();  
+
+07     _ids = bundle.getIntArray("_ids");    //获得保存音乐文件_ID的数组  
+
+08     position = bundle.getInt("position"); //获得应该播放的音乐的号数,既播放第几首  
+
+09         //代码未完，见下面的代码  
+
+10 } 
+
+[代码] 初始化控件
+view sourceprint?1 playtime = (TextView)findViewById(R.id.playtime);         //显示已经播放的时间  
+
+2 durationTime = (TextView)findViewById(R.id.duration);     //显示歌曲总时间  
+
+3 playBtn = (ImageButton)findViewById(R.id.playBtn);       //开始播放、暂停播放按钮  
+
+4 latestBtn = (ImageButton)findViewById(R.id.latestBtn);   //播放上一首按钮  
+
+5 nextButton = (ImageButton)findViewById(R.id.nextBtn);    //播放下一首按钮  
+
+6 forwardBtn = (ImageButton)findViewById(R.id.forwardBtn); //快进按钮  
+
+7 rewindBtn = (ImageButton)findViewById(R.id.rewindBtn);   //快退按钮  
+
+8 seekbar = (SeekBar)findViewById(R.id.seekbar);           //播放进度条 
+
+[代码] 定义各控件的回调函数
+view sourceprint?001 playBtn.setOnClickListener(new View.OnClickListener() { //点击“播放、暂停”按钮时回调  
+
+002     @Override 
+
+003     public void onClick(View v) {                 
+
+004         if (mp.isPlaying()){                     //如果正在播放则暂停  
+
+005             pause();  
+
+006             playBtn.setBackgroundResource(  
+
+007                  R.drawable.play_selecor);   //更改按键状态图标  
+
+008         } else{                                  //如果没有播放则恢复播放  
+
+009             play();  
+
+010             playBtn.setBackgroundResource(  
+
+011                 R.drawable.pause_selecor);   //更改按键状态图标  
+
+012                        
+
+013         }  
+
+014     }  
+
+015 });  
+
+016    
+
+017 latestBtn.setOnClickListener(new View.OnClickListener() {//点击“播放上一首”按钮时回调             
+
+018     @Override 
+
+019     public void onClick(View v) {  
+
+020         int num = _ids.length;                  //获得音乐的数目  
+
+021         if(position==0){                        //如果已经时第一首则播放最后一首  
+
+022             position=num-1;                                       
+
+023         }else{                                  //否则播放上一首  
+
+024             position-=1;  
+
+025         }  
+
+026         int pos = _ids[position];              //得到将要播放的音乐的_ID  
+
+027         setup();                               //做播放前的准备工作  
+
+028         play();                    //开始播放  
+
+029     }  
+
+030 });  
+
+031    
+
+032 nextButton.setOnClickListener(new View.OnClickListener(){//点击“播放下一首”按钮时回调             
+
+033     @Override 
+
+034     public void onClick(View v) {                  
+
+035         int num = _ids.length;                 //获得音乐的数目  
+
+036         if (position==num-1){                  //如果已经是最后一首，则播放第一首  
+
+037             position=0;   
+
+038         }else{  
+
+039             position+=1;                  //否则播放下一首  
+
+040         }  
+
+041         int pos = _ids[position];             //得到将要播放的音乐的_ID  
+
+042         setup();                              //做播放前的准备工作  
+
+043         play();                               //开始播放  
+
+044     }  
+
+045 });  
+
+046    
+
+047 forwardBtn.setOnTouchListener(new OnTouchListener() {    //点击“快进”按钮时回调  
+
+048     @Override 
+
+049     public boolean onTouch(View v, MotionEvent event) {  
+
+050         switch (event.getAction()) {  
+
+051             case MotionEvent.ACTION_DOWN:  
+
+052                 fHandler.post(forward); //此处使用handler对象更新进度条  
+
+053                 mp.pause();     //点击快进按钮时，音乐暂停播放                              
+
+054                 break;  
+
+055    
+
+056             case MotionEvent.ACTION_UP:  
+
+057                 fHandler.removeCallbacks(forward);            
+
+058                 mp.start();     //松开快进按钮时，音乐暂恢复播放                             
+
+059                 playBtn.setBackgroundResource(  
+
+060                     R.drawable.pause_selecor);  
+
+061                 break;  
+
+062         }  
+
+063         return false;  
+
+064     }  
+
+065 });  
+
+066    
+
+067 rewindBtn.setOnTouchListener(new OnTouchListener() {    //点击“快退”按钮时回调         
+
+068     @Override 
+
+069     public boolean onTouch(View v, MotionEvent event) {  
+
+070         switch (event.getAction()) {  
+
+071             case MotionEvent.ACTION_DOWN:     
+
+072                 fHandler.post(rewind);            
+
+073                 mp.pause(); //点击快退按钮时，音乐暂暂停播放  
+
+074                 break;  
+
+075    
+
+076             case MotionEvent.ACTION_UP:  
+
+077                 fHandler.removeCallbacks(rewind);  
+
+078                 mp.start(); //松开快退按钮时，音乐暂恢复播放  
+
+079                 playBtn.setBackgroundResource(  
+
+080                     R.drawable.pause_selecor);  
+
+081                 break;  
+
+082         }  
+
+083         return false;  
+
+084     }  
+
+085 });  
+
+086    
+
+087 seekbar.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {            
+
+088     @Override 
+
+089     public void onStopTrackingTouch(SeekBar seekBar) {  
+
+090         mp.start();     //停止拖动进度条时，音乐开始播放  
+
+091     }  
+
+092     @Override 
+
+093     public void onStartTrackingTouch(SeekBar seekBar) {  
+
+094         mp.pause();     //开始拖动进度条时，音乐暂停播放  
+
+095     }  
+
+096                
+
+097     @Override 
+
+098     public void onProgressChanged(SeekBar seekBar, int progress,  
+
+099         boolean fromUser) {  
+
+100         if(fromUser){  
+
+101             mp.seekTo(progress);    //当进度条的值改变时，音乐播放器从新的位置开始播放  
+
+102         }  
+
+103     }  
+
+104 }); 
+

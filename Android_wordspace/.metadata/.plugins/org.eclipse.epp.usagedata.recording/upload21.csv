@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to read repository at http://download.eclipse.org/eclipse/updates/3.7.",1347602422156
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/xpand/updates/.",1347602422468
+error,log,,,"Error reading update site http://download.eclipse.org/technology/emft/updates/.",1347602422781
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/ocl/3_0/updates/.",1347602423093
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2m/updates/releases/content.jar.",1347602423625
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/updates/content.xml.",1347602424703
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/mylyn/update/e3.4/compositeContent.xml.",1347602425250
+error,log,,,"Unable to read repository at http://download.eclipse.org/mat/1.1/update-site/content.xml.",1347602425781
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/3.6/compositeContent.xml.",1347602426296
+error,log,,,"Unable to read repository at http://download.eclipse.org/koneki/updates-nightly/ldt/content.xml.",1347602426859
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo/201106220900/content.xml.",1347602427375
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/ptp/updates/indigo/content.xml.",1347602427890
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/indigo/compositeContent.xml.",1347602428421
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1347602428515
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1347602428562
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/actf/0.9/update-site/content.xml.",1347602428937
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602429234
+error,log,,,"Unable to read repository at http://download.eclipse.org/birt/update-site/3.7/content.xml.",1347602429484
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/R20120119162704/repository/content.xml.",1347602429984
+error,log,,,"Unable to read repository at http://www.mia-software.com/html/miaStudio/download/modisco/updates/content.xml.",1347602430968
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/releases/content.xml.",1347602431468
+error,log,,,"Unable to read repository at http://download.eclipse.org/windowbuilder/WB/integration/3.7/content.xml.",1347602432000
+error,log,,,"Unable to read repository at http://www.soyatec.com/update/site.xml.",1347602433000
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/updates/releases/content.xml.",1347602433531
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602441609
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602441703
+started,bundle,org.eclipse.wb.os,1.1.0.r37x201109091012,"org.eclipse.wb.os",1347602442375
+started,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1347602442421
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602462328
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602473875
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602474000
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1347602485156
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1347602485187
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1347602485265
+error,log,,,"Unable to read repository at file:/J:/Android/eclipse-java-indigo-SR1-win32/eclipse-java-indigo-SR1-win32/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content-1202717019.xml.",1347602485468
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1347602485484
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/tmf/updates/.",1347602485781
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/updates/.",1347602486093
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmt/modisco/updates/.",1347602486406
+error,log,,,"Unable to read repository at http://download.eclipse.org/datatools/updates.",1347602486718
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/gef/updates/releases.",1347602487234
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/updates/content.xml.",1347602487765
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347602492750
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo/compositeContent.xml.",1347602497531
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/emft/updates/site.xml.",1347602498296
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/cdt/releases/indigo/compositeContent.xml.",1347602498812
+error,log,,,"Unable to read repository at http://download.eclipse.org/stp/updates/content.xml.",1347602499359
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/papyrus/updates/releases/content.xml.",1347602499906
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/mwe/updates/compositeContent.xml.",1347602500453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347602503046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347602503328
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602506640
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602510140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602512828
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602528312
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602529859
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602533968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602535156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602535328
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602536234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347602536250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602546906
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602548453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347602548468
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347602554156
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\login_head.xml",1347602557609
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602557609
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\more_select.xml",1347602557609
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602557625
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602557625
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602557640
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602557640
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602557640
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602557640
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\option.xml",1347602557718
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602557781
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602557890
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602561859
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602561859
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602562734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602564140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602566000
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602566046
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.color.ColorEditor",1347602566156
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1347602566187
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602567640
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602567640
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\login_head.xml",1347602570218
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602570218
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\more_select.xml",1347602570218
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602570234
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602570234
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602570250
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602570250
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602570250
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602570265
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\option.xml",1347602570265
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602570390
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602570453
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602582390
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602582390
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602583218
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602602671
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\login_head.xml",1347602605390
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602605406
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\more_select.xml",1347602605406
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_edit_login.xml",1347602605406
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602605421
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602605421
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602605421
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602605437
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\qq_btn_check.xml",1347602605437
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\ALRS\\res\\drawable-mdpi\\option.xml",1347602605437
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602605562
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602605625
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602612406
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602613406
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602613515
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602615843
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602615968
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602624359
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1347602632375
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.openProject",1347602634046
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.closeProject",1347602637500
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602638140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602638953
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.drawable.DrawableEditor",1347602647515
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.drawable.DrawableEditor",1347602647625
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602655203
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602727859
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602729484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602749234
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602764234
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602790796
+error,log,,,"Unable to connect to repository https://dl-ssl.google.com/android/eclipse/site.xml",1347602839093
+error,log,,,"No repository found at http://download.eclipse.org/tools/orbit/downloads/drops/R20100519200754/repository.",1347602843671
+error,log,,,"No repository found at http://www.eclipse.org/modeling/emft/?project=search#search.",1347602853421
+error,log,,,"No repository found at http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo.",1347602868765
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602951000
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602953156
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602953265
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602958250
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.drawable.DrawableEditor",1347602964062
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602964062
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602965203
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602966312
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.drawable.DrawableEditor",1347602966312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347602978687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602979843
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602981125
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347602981234
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347602984015
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347602984015
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347602984015
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347602984031
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347602984031
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347602984062
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347602984078
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347602984078
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347602984078
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347602984093
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602984203
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347602984281
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602998390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347602999500
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347602999531
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347602999546
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347603000718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603000718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347603000718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603000718
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603000734
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603000734
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603000750
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603000750
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603000750
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347603000750
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347603001500
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347603007484
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347603007500
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347603010375
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603010375
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347603010375
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603010375
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603010390
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603010390
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603010406
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603010406
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603010406
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347603010406
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347603010515
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347603010593
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347603014421
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603014421
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347603014421
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347603014437
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603014437
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603014453
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603014453
+error,log,,,"Copy of loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347603014468

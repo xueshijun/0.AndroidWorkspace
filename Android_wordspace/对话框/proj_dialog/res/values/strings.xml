@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">消息框</string>
+    <string name="title">消息标题</string>
+    <string-array name="arrayList">
+    <item>AAA</item>
+    <item>BBB</item>
+    <item>CCC</item>
+    </string-array >
+</resources>

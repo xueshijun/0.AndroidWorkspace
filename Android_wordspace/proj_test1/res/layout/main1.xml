@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/aaa" android:orientation="vertical"
+	android:textColor="#591D59"
+	android:scrollbars="vertical"
+	>
+
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="30dp" />
+
+	<TextView android:id="@+id/view" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textColor="#591D59"
+		android:textSize="18sp" android:gravity="left" />
+	<TextView android:text="性格测试" android:id="@+id/view1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:gravity="center" android:textColor="#591D59" />
+
+	<TextView android:text="开始答题：" android:id="@+id/view2"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:textColor="#591D59" />
+	
+	<TextView android:id="@+id/view3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#591D59"/>
+	<RadioGroup android:id="@+id/group" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<RadioButton android:id="@+id/A" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#591D59"/>
+		<RadioButton android:id="@+id/B" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#591D59"/>
+		<RadioButton android:id="@+id/C" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="#591D59"/>
+	</RadioGroup>
+</LinearLayout>

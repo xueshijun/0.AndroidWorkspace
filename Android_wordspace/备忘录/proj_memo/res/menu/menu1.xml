@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/news" android:title="新建" android:icon="@drawable/btn_star_big_on"/>
+<item android:id="@+id/open" android:title="打开" android:icon="@drawable/btn_star_big_on"/>
+<item android:id="@+id/delete" android:title="删除" android:icon="@drawable/btn_star_big_on"/>
+</menu>

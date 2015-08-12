@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">自动补全</string>
+    <string-array name="complete">
+    	<item>AB</item>
+    	<item>ABCD</item>
+    	<item>ABCDE</item>
+    	<item>ABCDEF</item>
+    </string-array>
+</resources>

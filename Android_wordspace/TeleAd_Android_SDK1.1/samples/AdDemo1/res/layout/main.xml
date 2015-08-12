@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:adsdk="http://schemas.android.com/apk/res/com.telead.addemo1"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    >   
+   
+   <com.wooboo.adlib_android.WoobooAdView
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    adsdk:testing="false"
+    adsdk:backgroundColor="#FFFFFFFF"
+    adsdk:textColor="#00000000"
+    adsdk:refreshInterval="45"
+    />
+    
+</RelativeLayout>

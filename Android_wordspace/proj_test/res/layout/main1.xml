@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/aaa"
+  android:orientation="vertical"
+  android:textColor="#591D59"
+  >
+  
+  <LinearLayout android:layout_width="fill_parent"
+  				android:layout_height="30dp"
+  />
+  
+  <TextView android:id="@+id/view"
+  			android:layout_width="fill_parent"
+  			android:layout_height="wrap_content"
+  			android:textColor="#591D59"
+    		android:textSize="18sp"
+    		android:gravity="left"
+  />
+   <TextView android:text="性格测试"
+   			android:id="@+id/view1"
+  			android:layout_width="fill_parent"
+  			android:layout_height="wrap_content"
+  			android:gravity="center"
+  			android:textColor="#591D59"
+  />
+  
+  <TextView android:text="开始答题："
+  			android:id="@+id/view2"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:textColor="#591D59"
+  />
+  
+  
+ 
+  <TextView android:text="1.你最喜欢什么颜色？"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:textColor="#591D59"
+  />
+  
+   <LinearLayout android:layout_width="fill_parent"
+  				android:layout_height="wrap_content"
+  				android:orientation="horizontal"
+  >
+  <RadioGroup android:id="@+id/radio"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:gravity="center"
+  				android:textColor="#591D59"
+  				android:orientation="horizontal"
+  >
+  	<RadioButton android:id="@+id/radio1"  	
+  				android:text="红色"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  		<RadioButton android:id="@+id/radio2"  	
+  				android:text="黄色"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  		<RadioButton android:id="@+id/radio3"  	
+  				android:text="绿色"
+  				android:layout_width="fill_parent"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  </RadioGroup>
+  </LinearLayout>
+   <TextView android:text="2.你喜欢什么花？"
+  			android:layout_width="wrap_content"
+  			android:layout_height="wrap_content"
+  			android:textColor="#591D59"
+  />
+     <LinearLayout android:layout_width="fill_parent"
+  				android:layout_height="wrap_content"
+  				android:orientation="horizontal"
+  >
+  <RadioGroup android:id="@+id/radio"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:gravity="center"
+  				android:textColor="#591D59"
+  				android:orientation="horizontal"
+  >
+  	<RadioButton android:id="@+id/radio1"  	
+  				android:text="康乃馨"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  		<RadioButton android:id="@+id/radio2"  	
+  				android:text="玫瑰花"
+  				android:layout_width="wrap_content"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  		<RadioButton android:id="@+id/radio3"  	
+  				android:text="牡丹花"
+  				android:layout_width="fill_parent"
+  				android:layout_height="wrap_content"
+  				android:textColor="#591D59"
+  	/>
+  </RadioGroup>
+  </LinearLayout>
+</LinearLayout>

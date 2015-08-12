@@ -1,0 +1,8 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1353656311984
+stopped,bundle,org.eclipse.m2e.jdt,1.0.100.20110804-1717,"org.eclipse.m2e.jdt",1353656312000
+stopped,bundle,org.eclipse.m2e.launching,1.0.100.20110804-1717,"org.eclipse.m2e.launching",1353656312015
+stopped,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1353656312015
+stopped,bundle,overlay.com.android.ide.eclipse.adt.overlay,16.0.1.v201112150204-238534,"overlay.com.android.ide.eclipse.adt.overlay",1353656312046
+stopped,bundle,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.adt",1353656312046
+stopped,bundle,org.eclipse.ui.cheatsheets,3.4.100.v20110425,"org.eclipse.ui.cheatsheets",1353656312093

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/file" android:title="文件" android:icon="@drawable/icon"/>
+<item android:id="@+id/edit" android:title="编辑" android:icon="@drawable/icon"/>
+<item android:id="@+id/format" android:title="格式" android:icon="@drawable/icon"/>
+<item android:id="@+id/view" android:title="查看" android:icon="@drawable/icon"/>
+<item android:id="@+id/help" android:title="帮助" android:icon="@drawable/icon"/>
+</menu>

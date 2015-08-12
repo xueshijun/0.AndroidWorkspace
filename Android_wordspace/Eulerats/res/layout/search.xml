@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:orientation="vertical" android:id="@+id/loginRoot"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:orientation="vertical" android:id="@+id/LinearLayout01"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_weight="1.0"
+		android:background="@drawable/default_bg">
+
+		<RelativeLayout
+		    android:id="@+id/RelativeLayout02"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="15.0px"
+		    android:layout_marginRight="15.0px"
+		    android:layout_marginTop="62.0px"
+		    android:background="@drawable/login_back"
+		    android:paddingBottom="10.0px"
+		    android:paddingTop="21.0px" >
+
+			<LinearLayout
+			    android:id="@+id/linearLayout4"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:orientation="vertical" >
+
+			    <LinearLayout
+			        android:id="@+id/linearLayout1"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+
+			        <TextView
+			            android:id="@+id/TextView01"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_marginRight="15.0sp"
+			            android:gravity="center_vertical"
+			            android:paddingLeft="7.0sp"
+			            android:text="@string/strSelectLabel"
+			            android:textColor="#ff3f3f3f"
+			            android:textSize="16.0dip" />
+
+			        <EditText
+			            android:id="@+id/login_edit_account"
+			            android:layout_width="fill_parent"
+			            android:layout_height="wrap_content"
+			            android:layout_marginBottom="5.0px"
+			            android:layout_marginLeft="5.0dip"
+			            android:layout_marginRight="5.0dip"
+			            android:layout_marginTop="5.0dip"
+			            android:layout_weight="1"
+			            android:background="@drawable/qq_edit_login"
+			            android:hint="@string/strSelectHint"
+			            android:inputType="text"
+			            android:maxLength="10"
+			            android:paddingLeft="45.0sp"
+			            android:saveEnabled="true" />
+			    </LinearLayout>
+
+			    <LinearLayout
+			        android:id="@+id/linearLayout2"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+
+			        <TextView
+			            android:id="@+id/TextView02"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:gravity="center_vertical"
+			            android:paddingLeft="7.0sp"
+			            android:text="@string/strKeywordsLabel"
+			            android:textColor="#ff3f3f3f"
+			            android:textSize="16.0dip" />
+
+			        <EditText
+			            android:id="@+id/login_edit_pwd"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_weight="1"
+			            android:background="@drawable/qq_edit_login"
+			            android:hint="@string/strKeywordsHint"
+			            android:inputType="text"
+			            android:maxLength="16"
+			            android:paddingLeft="45.0sp"
+			            android:saveEnabled="true" />
+			    </LinearLayout>
+
+			    <LinearLayout
+			        android:id="@+id/linearLayout3"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+
+			        <ImageButton
+			            android:id="@+id/login_option"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_marginLeft="13.0dip"
+			            android:layout_marginTop="2.0dip"
+			            android:background="@drawable/option"
+			            android:clickable="true" />
+
+			        <Button
+			            android:id="@+id/login_btn_login"
+			            android:layout_width="130.0px"
+			            android:layout_height="42.0px"
+			            android:layout_marginRight="12.0dip"
+			            android:layout_marginTop="7.0px"
+			            android:text="@string/login" />
+			    </LinearLayout>
+			</LinearLayout>
+
+		</RelativeLayout>
+
+	</LinearLayout>
+	<RelativeLayout android:id="@+id/RelativeLayout01"
+		android:background="@drawable/bottom" android:layout_width="fill_parent"
+		android:layout_height="44.0dip">
+	</RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,127 @@
+view plaincopy to clipboardprint?
+package com.uyu.gesturepro;   
+import  android.app.Application;   
+import  android.graphics.Bitmap;   
+public  class  InfoClass  extends  Application{   
+     private Bitmap bmp;   
+     private String name;   
+        
+     public String getName(){   
+         return name;   
+     }   
+        
+     public void setName(String name){   
+         this.name = name;   
+     }   
+        
+     public Bitmap getBmp(){   
+         return bmp;   
+     }   
+     public void setBmp(Bitmap bmp){   
+         this.bmp = bmp;   
+    }   
+}  
+package com.uyu.gesturepro;
+import  android.app.Application;
+import  android.graphics.Bitmap;
+public  class  InfoClass  extends  Application{
+     private Bitmap bmp;
+     private String name;
+     
+     public String getName(){
+    	 return name;
+     }
+     
+     public void setName(String name){
+    	 this.name = name;
+     }
+     
+     public Bitmap getBmp(){
+         return bmp;
+     }
+     public void setBmp(Bitmap bmp){
+         this.bmp = bmp;
+    }
+} 
+
+然后再Activitymanifest.xml中注册一下
+
+<application android:name =".InfoClass" android:icon="@drawable/icon" android:label="@string/app_name">
+
+注意 这里不是重新写一条<application/>，而是在原有的里面加上 android:name =".InfoClass"
+
+接下来是使用
+
+赋值：
+
+view plaincopy to clipboardprint?
+InfoClass info = (InfoClass)getApplication();   
+                            info.setBmp(bmp);   
+                            info.setName(et.getText().toString());  
+InfoClass info = (InfoClass)getApplication();
+						    info.setBmp(bmp);
+							info.setName(et.getText().toString());
+ 
+
+使用：
+
+view plaincopy to clipboardprint?
+InfoClass info = (InfoClass)getApplication();   
+tv.setText("手势ID为："+info.getName());   
+iv.setImageBitmap(info.getBmp());  
+InfoClass info = (InfoClass)getApplication();
+tv.setText("手势ID为："+info.getName());
+iv.setImageBitmap(info.getBmp()); 
+
+OK，Bitmap变量传递过去了，其实这就是一种全局变量的用法，据说比public Static有更好的安全性，呵呵
+
+startActivityForResult的用法
+
+在main_Activity中：注意我这里只需要sub_Activity传回ok or cancel的消息就可以了
+
+所以并没有用intent传值过去，也没有传确切的值回到main，但是如果需要是可以互相传递值的
+
+具体用法就不写了，有需要去网上搜索相应的帖子吧
+
+view plaincopy to clipboardprint?
+Intent intent = new Intent();   
+intent.setClass(gesturepro.this, gestureView.class);   
+gesturepro.this.startActivityForResult(intent, 0);  
+Intent intent = new Intent();
+intent.setClass(gesturepro.this, gestureView.class);
+gesturepro.this.startActivityForResult(intent, 0); 
+
+在sub_Activitiy中：
+
+view plaincopy to clipboardprint?
+Intent data = new Intent();   
+setResult(RESULT_OK, data);   
+finish();  
+Intent data = new Intent();
+setResult(RESULT_OK, data);
+finish(); 
+
+值传回来以后，在onActivityResult()方法中处理，根据传回来的resultCode来选择相应的处理
+
+view plaincopy to clipboardprint?
+protected void onActivityResult(int requestCode, int resultCode, Intent data) {   
+        // TODO Auto-generated method stub   
+        Log.d("uyu","return");   
+           
+        switch(resultCode){   
+            case RESULT_OK:   
+                addMyGesture(et.getText().toString(), gesture);   
+                break;   
+            case RESULT_CANCELED:   
+                tv.setText("重新输入手势：");   
+                gov.clear(true);   
+                break;   
+            default:   
+                break;   
+        }   
+           
+    }  
+
+
+
+本文来自CSDN博客，转载请标明出处：http://blog.csdn.net/uyu2yiyi/archive/2011/04/10/6313766.aspx

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="1.请您选择城市？"
+    />
+    <CheckBox android:id="@+id/box1" android:text="湖北" android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+    <CheckBox android:id="@+id/box2" android:text="陕西" android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+    <CheckBox android:id="@+id/box3" android:text="山西" android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+    
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<problems>
+     <problem>
+	 <title>1.选择你最喜欢的颜色！</title>
+	 <a>A.红色</a>
+	 <b>B.蓝色</b>
+	 <c>C.紫色</c>
+     </problem>
+	 <problem>
+      <title>2.您最喜欢什么花！</title>
+	 <a>A.玫瑰</a>
+	 <b>B.康乃馨</b>
+	 <c>C.菊花</c>
+     </problem>
+	 <problem>
+      <title>3.您最喜欢的运动！</title>
+	 <a>A.慢跑</a>
+	 <b>B.跳绳</b>
+	 <c>C.打球</c>
+     </problem>
+	 <problem>
+      <title>4.可以分享你心情的人是？</title>
+	 <a>A.恋人</a>
+	 <b>B.父母</b>
+	 <c>C.朋友</c>
+     </problem>
+  
+	 <problem>
+     <title>5.您最关注的时事是？</title>
+	 <a>A.政界事宜</a>
+	 <b>B.八卦新闻</b>
+	 <c>C.科技</c>
+     </problem>
+	
+	 <problem>
+      <title>6.你喜欢一天的什么时候？</title>
+	 <a>A.早上</a>
+	 <b>B.中午</b>
+	 <c>C.下午</c>
+     </problem>
+	 <problem>
+       <title>7.你喜欢一年中的什么季节？</title>
+	 <a>A.春天</a>
+	 <b>B.夏天</b>
+	 <c>C.冬天</c>
+     </problem>
+</problems>

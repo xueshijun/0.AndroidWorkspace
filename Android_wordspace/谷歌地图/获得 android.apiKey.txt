@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator>d:
+
+D:\> cd \Program Files\Java\jdk1.6.0\bin
+D:\Program Files\Java\jdk1.6.0\bin>keytool -list -keystore "C:\Documents and Set
+tings\Administrator\.android\debug.keystore" -storepass android -keypass android
+
+
+Keystore 类型： JKS
+Keystore 提供者： SUN
+
+您的 keystore 包含 1 输入
+
+androiddebugkey, 2011-5-11, PrivateKeyEntry,
+认证指纹 (MD5)： D6:6E:B8:41:08:13:8A:DC:92:0D:C2:35:95:DA:8E:DD
+
+在以下网站下载 
+http://code.google.com./intl/zh-CN/android/maps-api-signup.html
+
+0cLmMJZa2Wnh1tQWuWZRXH98a0BLP0i3COR2l4w
+0cLmMJZa2Wnh1tQWuWZRXH98a0BLP0i3COR2l4w
+
+
+
+05:A0:5B:6B:6F:B2:31:40:41:35:DA:41:93:41:DC:6E

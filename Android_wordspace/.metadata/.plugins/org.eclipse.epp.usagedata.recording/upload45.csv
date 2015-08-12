@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1353650155937
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1353650155937
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1353650155937
+java.vm.specification.version,sysinfo,,,"1.7",1353650155937
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1353650155937
+java.vm.version,sysinfo,,,"21.0-b17",1353650155937
+started,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1353650156078
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/epp/updates/udc/content.xml",1353650156187
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/gmf/updates/milestones/content.xml",1353650156765
+error,log,,,"Unknown Host: http://download.eclipse.org/rt/rap/1.3/runtime/content.xml",1353650156984
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/emf/updates/content.xml",1353650157421
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.300.v20110510,"org.eclipse.equinox.p2.updatesite",1353650157734
+started,bundle,org.eclipse.equinox.p2.publisher,1.2.0.v20110511,"org.eclipse.equinox.p2.publisher",1353650157875
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/m2t/updates/site.xml",1353650158328
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1353650158765
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/gmf/update-site/releases/site.xml",1353650158796
+error,log,,,"Unknown Host: http://download.eclipse.org/sequoyah/updates/2.0/content.xml",1353650159000
+error,log,,,"Unknown Host: http://download.eclipse.org/tm/updates/3.3/content.xml",1353650159203
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/emf/updates/content.xml",1353650159421
+started,bundle,org.eclipse.team.cvs.ui,3.3.400.I20110510-0800,"org.eclipse.team.cvs.ui",1353650159421
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/mdt/papyrus/updates/milestones/0.8/compositeContent.xml",1353650159671
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/subversive/0.7/update-site/content.xml",1353650159875
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/emft/jet/update-site/site.xml/content.xml",1353650160078
+error,log,,,"Unknown Host: http://dev.eclipse.org/svnroot/dsdp/org.eclipse.tm.tcf/releases/0.4.0/content.xml",1353650160312
+error,log,,,"Unknown Host: http://www.eclipse.org/modeling/mdt/content.xml",1353650160531
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.2.100.v20110510,"org.eclipse.equinox.p2.extensionlocation",1353650160937
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.1.101.R37x_v20110714,"org.eclipse.equinox.p2.artifact.repository",1353650162125
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,2.1.1.R37x_v20110815-0935,"org.eclipse.equinox.p2.touchpoint.eclipse",1353650162562
+started,bundle,org.eclipse.equinox.p2.publisher.eclipse,1.0.0.v20110511,"org.eclipse.equinox.p2.publisher.eclipse",1353650163687
+error,log,,,"Unknown Host: http://downloads.myeclipseide.com/downloads/products/eworkbench/helios/enterprise-earlyaccess/compositeContent.xml",1353650165953
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/gmf/update-site/releases/site.xml/content.xml",1353650166187
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/mdt/updates/releases/content.xml",1353650166421
+error,log,,,"Unknown Host: http://download.eclipse.org/releases/helios/compositeContent.xml",1353650166687
+error,log,,,"Unknown Host: http://download.eclipse.org/eclipse/updates/3.7/compositeContent.xml",1353650166890
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/m2t/xpand/updates/compositeContent.xml",1353650167109
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/emft/updates/site.xml",1353650167546
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/mdt/ocl/3_0/updates/compositeContent.xml",1353650167765
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/m2m/updates/releases/content.xml",1353650167968
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/emft/updates/content.xml",1353650168171
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/mylyn/update/e3.4/compositeContent.xml",1353650168421
+error,log,,,"Unknown Host: http://download.eclipse.org/mat/1.1/update-site/content.xml",1353650168625
+error,log,,,"Unknown Host: http://download.eclipse.org/mylyn/releases/3.6/compositeContent.xml",1353650168828
+error,log,,,"Unknown Host: http://download.eclipse.org/koneki/updates-nightly/ldt/content.xml",1353650169046
+error,log,,,"Unknown Host: http://download.eclipse.org/releases/indigo/201106220900/content.xml",1353650169265
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/ptp/updates/indigo/content.xml",1353650169468
+error,log,,,"Unknown Host: http://download.eclipse.org/mylyn/releases/indigo/compositeContent.xml",1353650169687
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/actf/0.9/update-site/content.xml",1353650169890
+error,log,,,"Unknown Host: http://download.eclipse.org/birt/update-site/3.7/content.xml",1353650170109
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/orbit/downloads/drops/R20120119162704/repository/content.xml",1353650170312
+error,log,,,"Unknown Host: http://www.mia-software.com/html/miaStudio/download/modisco/updates/content.xml",1353650170531
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/m2t/updates/releases/content.xml",1353650170734
+error,log,,,"Unknown Host: http://download.eclipse.org/windowbuilder/WB/integration/3.7/content.xml",1353650170953
+error,log,,,"Unknown Host: http://www.soyatec.com/update/site.xml",1353650171406
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/emft/updates/releases/content.xml",1353650171625
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/emft/eef/updates/0.7.1/content.xml",1353650171828
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/tmf/updates/compositeContent.xml",1353650172031
+error,log,,,"Unknown Host: http://www.eclipse.org/modeling/updates/compositeContent.xml",1353650172250
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/gmt/modisco/updates/content.xml",1353650172468
+error,log,,,"Unknown Host: http://download.eclipse.org/datatools/updates/content.xml",1353650172671
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/gef/updates/releases/content.xml",1353650172875
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/mdt/updates/content.xml",1353650173093
+error,log,,,"Unknown Host: http://download.eclipse.org/releases/indigo/compositeContent.xml",1353650173296
+error,log,,,"Unknown Host: http://www.eclipse.org/modeling/emft/updates/site.xml",1353650173781
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/cdt/releases/indigo/compositeContent.xml",1353650174000
+error,log,,,"Unknown Host: http://download.eclipse.org/stp/updates/content.xml",1353650174203
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/mdt/papyrus/updates/releases/content.xml",1353650174406
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/emft/mwe/updates/compositeContent.xml",1353650174609
+error,log,,,"Unknown Host: https://dl-ssl.google.com/android/eclipse/site.xml",1353650178546
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/orbit/downloads/drops/R20100519200754/repository/content.xml",1353650178765
+error,log,,,"Unknown Host: http://download.eclipse.org/jwt/update-site/content.xml",1353650178968
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/gef/updates/milestones/content.xml",1353650179171
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/gmf/updates/releases/content.xml",1353650179375
+error,log,,,"Unknown Host: http://www.eclipse.org/modeling/emft/content.xml",1353650179593
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/m2t/updates/content.xml",1353650179796
+error,log,,,"Unknown Host: http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo/content.xml",1353650180000
+error,log,,,"Unknown Host: http://marketplace.eclipse.org/repo/compositeContent.xml",1353650180218
+error,log,,,"Unknown Host: http://download.eclipse.org/tools/orbit/downloads/drops/updateSite/compositeContent.xml",1353650180421
+error,log,,,"Unknown Host: http://download.eclipse.org/webtools/updates/compositeContent.xml",1353650180656
+error,log,,,"Unknown Host: http://download.eclipse.org/objectteams/updates/contrib/compositeContent.xml",1353650180875
+error,log,,,"Unknown Host: http://download.eclipse.org/modeling/gmt/modisco/updates/release/compositeContent.xml",1353650181078
+error,log,,,"Unknown Host: http://download.eclipse.org/tehnology/babel/update-site/ganymede/content.xml",1353650181281
+error,log,,,"Unknown Host: http://dl-ssl.google.com/android/eclipse/site.xml",1353650181718
+error,log,,,"Unknown Host: http://download.eclipse.org/egit/updates/content.xml",1353650181921
+error,log,,,"Unknown Host: http://download.eclipse.org/rt/rap/1.3/tooling/content.xml",1353650182125
+error,log,,,"Unknown Host: http://download.eclipse.org/objectteams/updates/2.0/compositeContent.xml",1353650182343
+error,log,,,"Unknown Host: http://download.eclipse.org/releases/helios/201009240900/content.xml",1353650182546
+started,bundle,org.eclipse.equinox.p2.director,2.1.0.v20110504-1715,"org.eclipse.equinox.p2.director",1353650182750
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110510,"org.eclipse.equinox.p2.garbagecollector",1353650182937
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650303125
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650312468
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1353650330453
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1353650330781
+error,log,,,"Failed to load properties file for project 'Saple'",1353650330968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650331578
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353650335750
+started,bundle,org.eclipse.debug.ui,3.7.101.v20110817_r371,"org.eclipse.debug.ui",1353650339296
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1353650339734
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1353650339796
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1353650339875
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1353650340343
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650341859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650343796
+started,bundle,org.eclipse.m2e.core,1.0.100.20110804-1717,"org.eclipse.m2e.core",1353650347640
+error,log,,,"Unable to update index for central|http://repo1.maven.org/maven2",1353650369218
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650376812
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650806750
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353650808515
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651452250
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651461500
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651461578
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651461703
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651461781
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651465109
+started,bundle,org.eclipse.wst.sse.ui,1.3.1.v201108191312,"org.eclipse.wst.sse.ui",1353651470125
+started,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1353651470515
+started,bundle,org.eclipse.wst.validation,1.2.302.v201107140600,"org.eclipse.wst.validation",1353651472640
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.200.v201103170332,"org.eclipse.wst.common.project.facet.core",1353651472734
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1353651473093
+started,bundle,org.eclipse.emf.common,2.7.0.v20110912-0920,"org.eclipse.emf.common",1353651473140
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651473484
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651474671
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651474671
+started,bundle,org.eclipse.wst.common.frameworks,1.2.101.v201107192200,"org.eclipse.wst.common.frameworks",1353651474671
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651474937
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1353651475312
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651475328
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651489437
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651500921
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651502765
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651502765
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651512171
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353651512187
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651535234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651538890
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651539312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1353651541375
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651543703
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651560625
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651561203
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1353651565812
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651566218
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651566937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651597078
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651597453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651609953
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651610375
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651649750
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651651015
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651651156
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651653312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651654375
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651656281
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1353651667906
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1353651668125
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651674562
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1353651699296
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651700703
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1353651701859
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651702609
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651704734
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651729359
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651735359
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651738921
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651739062
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651739640
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651740234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651742281
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651763453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651765234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651766390
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651768828
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651784359
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651786453
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651788453
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651791218
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651793546
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651794546
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651803140
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651803343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651806046
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1353651816609
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651817421
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651820328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651825156
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651838546
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651860906
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651862531
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651863406
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651867515
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651870921
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651870968
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651871578
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651874203
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651874390
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1353651877218
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1353651878500
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1353651879671
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651883375
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651883734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651899500
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651913687
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651913937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651915125
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1353651924093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651927328
+opened,view,com.android.ide.eclipse.ddms,16.0.1.v201112150204-238534,"com.android.ide.eclipse.ddms.views.LogCatView",1353651929859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651933093
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353651933140
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353651935031
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651939312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651944156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651946390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353651965765
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651973187
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651973937
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineStart",1353651988937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651994968
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651995968
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353651996187
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1353651997281
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652000734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652018015
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652023671
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1353652025640
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652040656
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652043421
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353652045750
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652050031
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652051734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652056500
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652056843
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652060781
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652075265
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652080875
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1353652081312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652082343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652088937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1353652090218
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353652093390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353654462109
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353654462906
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353656305875
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353656307671
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353656308468
+closed,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353656309171
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1353656310250
+stopped,bundle,org.eclipse.m2e.logback.configuration,1.0.100.20110804-1717,"org.eclipse.m2e.logback.configuration",1353656311843
+stopped,bundle,org.eclipse.m2e.discovery,1.0.100.20110804-1717,"org.eclipse.m2e.discovery",1353656311890
+stopped,bundle,org.eclipse.m2e.refactoring,1.0.100.20110804-1717,"org.eclipse.m2e.refactoring",1353656311921
+stopped,bundle,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor",1353656311984

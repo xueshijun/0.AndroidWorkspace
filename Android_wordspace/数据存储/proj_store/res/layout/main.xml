@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/http_imgload2"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="登录"
+    />
+     <LinearLayout android:orientation="horizontal"
+    			android:layout_width="fill_parent"
+    			android:layout_height="100dp"
+    
+    >
+     <TextView android:id="@+id/view1"
+    			android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:textSize="18sp"
+    			android:textColor="#FFFFCC"
+    			
+     />
+    </LinearLayout>
+    
+    <LinearLayout android:orientation="horizontal"
+    			android:layout_width="fill_parent"
+    			android:layout_height="wrap_content"
+    
+    >
+    <TextView android:id="@+id/view2"
+    			android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:text="用户名："
+    			android:textColor="#FFD501"
+     />
+     <EditText android:id="@+id/text1"
+     			android:layout_width="200dp"
+     			android:layout_height="wrap_content"
+     			android:hint="请输入用户名"
+     
+     />
+    </LinearLayout>
+    
+      <LinearLayout android:orientation="horizontal"
+    			android:layout_width="fill_parent"
+    			android:layout_height="wrap_content"
+    
+    >
+    <TextView android:id="@+id/view3"
+    			android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:text="密    码："
+    			android:textColor="#FFD501"
+     />
+     <EditText android:id="@+id/text2"
+     			android:layout_width="200dp"
+     			android:layout_height="wrap_content"
+     			android:password="true"			
+     
+     />
+    </LinearLayout>
+     <LinearLayout android:orientation="horizontal"
+    			android:layout_width="fill_parent"
+    			android:layout_height="100dp"
+    			android:gravity="center"
+    
+    >
+    
+   <Button android:id="@+id/button1"
+   			android:layout_width="100dp"
+   			android:layout_height="wrap_content"
+   			android:text="保存"
+   
+   />
+   
+    </LinearLayout>
+</LinearLayout>

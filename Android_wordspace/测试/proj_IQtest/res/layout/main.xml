@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="智力测试题"
+		android:textSize="36sp" android:gravity="center" />
+
+
+	<TextView android:id="@+id/title" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textSize="18sp"/>
+	<RadioGroup android:id="@+id/RadioGroup01"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<RadioButton android:id="@+id/RadioButton01"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:gravity="center" android:paddingRight="5dp"/>
+		<RadioButton android:id="@+id/RadioButton02"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:gravity="center" />
+		<RadioButton android:id="@+id/RadioButton03"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:gravity="center"/>
+	</RadioGroup>
+   <LinearLayout 
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<Button android:id="@+id/shang" android:layout_width="120dp"
+		android:layout_height="wrap_content" android:text="上一题"
+		android:gravity="center"  android:paddingRight="30dp"/>
+	<Button android:id="@+id/sure" android:layout_width="120dp"
+		android:layout_height="wrap_content" android:text="下一题"
+		android:gravity="center" 
+		/>
+	
+	</LinearLayout>
+	<LinearLayout 
+	android:orientation="horizontal" android:layout_width="wrap_content"
+	android:layout_height="wrap_content" android:gravity="left">	
+	    <TextView android:id="@+id/daan " android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:textSize="18sp"
+		/>
+		<TextView android:id="@+id/fenshu " android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textSize="18sp" android:paddingLeft="8dp"
+		 />
+  
+	</LinearLayout>
+	<TextView android:id="@+id/title" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="不选为弃权答题！！"
+		android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string name="hello">WELCOME!</string>  
+    <string name="app_name">EULERATS</string>   
+    <string name="strSelectLabel">Select</string> 
+    <string name="strSelectHint">Type</string>  
+    <string name="strKeywordsLabel">Input</string>
+    <string name="strKeywordsHint">Keywords</string>   
+    <string name="login">Login</string>   
+</resources>  

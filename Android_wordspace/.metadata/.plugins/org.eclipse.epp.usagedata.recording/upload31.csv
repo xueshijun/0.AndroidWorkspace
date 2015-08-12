@@ -1,0 +1,151 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347607651515
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347607674296
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347607680046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347607682687
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347607683093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347607688421
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347607703953
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347607726359
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607733500
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\login_head.xml",1347607735093
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347607735093
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\more_select.xml",1347607735109
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_edit_login.xml",1347607735109
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347607735109
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347607735125
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347607735125
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347607735125
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\qq_btn_check.xml",1347607735125
+error,log,,,"loginpage.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\QQAndroid\\res\\drawable-mdpi\\option.xml",1347607735125
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607754437
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607756062
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607756062
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607756078
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607756078
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607764125
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607764140
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607764140
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607764156
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607766703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607766718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607766718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607766734
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607767703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607767718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607767718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607767718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607769453
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607769453
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607769468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607769468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607769656
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607769687
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607769703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607769703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607771359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607771359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607771359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607771375
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347607771421
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347607783375
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607787250
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607788984
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607789000
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607789000
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607789015
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607789390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607789390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607789390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607789406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607794562
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607794562
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607794578
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607794578
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607794828
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607794843
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607794859
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607794859
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347607796562
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607796750
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607796765
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607796765
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607796781
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607797234
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607797234
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607797234
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607797250
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607798906
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607798906
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607798921
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607798921
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607799140
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607799156
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607799156
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607799171
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607811031
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607811046
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607811046
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607811046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1347607813125
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607813421
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607813421
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607813437
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607813437
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347607813500
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607816703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607816703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607816718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607816718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607817484
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607817484
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607817500
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607817500
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607817781
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607817781
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607817796
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607817796
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607819937
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607819937
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607819953
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607819953
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607822328
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607822343
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607822359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607822359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607826359
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607826375
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607826375
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607826390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607836890
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607836906
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607836906
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607836921
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607853156
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347607864484
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607867062
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607867062
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347607869000
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607869015
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347607872031
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607879421
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607879562
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347607887671
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607889453
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607889468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607889468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607889484
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1347607892375
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347607917234
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607921109
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607921109
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607921109
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607921125
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607921375
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607921375
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607921375
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607921390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347607923015
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607923015
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347607923031
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347607923031

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">列表</string>
+    <string-array name="spinner">
+    	<item>西安</item>
+    	<item>临潼</item>
+    	<item>宝鸡</item>
+    	<item>咸阳</item>
+    </string-array>
+</resources>

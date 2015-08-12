@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.telead.addemo1"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".AdDemo1"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+       
+	 <meta-data android:value="b22003efa835466da7a7906da8d21e6a" android:name="Telead_PID"/>
+	 <meta-data android:value="1" android:name="Market_ID"/>
+    </application>
+    <uses-sdk android:minSdkVersion="3" />
+    <!-- 以下 两个是必须的 permission -->
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<!-- 以下 两个是可选的 permission -->
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> 
+</manifest> 

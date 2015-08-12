@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347605950953
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605957421
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605962718
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347605962765
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605963546
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605964859
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347605964890
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605967812
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605970156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605970390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605973015
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605973125
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605974187
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347605977671
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347605977734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605983625
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605990781
+started,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1347605990984
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605993203
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605997906
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605998984
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347605999453
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606000015
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606014828
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606015031
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606016265
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606016593
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606017546
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606020015
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606020968
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606021734
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606022046
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606022406
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606022937
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606023000
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606025140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606027078
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606028125
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347606028156
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606030078
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606032468
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606032640
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606038531
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606038531
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606038531
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606038546
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606038546
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606038593
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606055421
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606075765
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606075968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606077031
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606081343
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606081500
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606086984
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606090359
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606090578
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606091468
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606093718
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606093875
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606097718
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606097734
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606099078
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606108375
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606112234
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606113515
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606114953
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606114953
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606114968
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606114968
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606114968
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606115000
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606115000
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606115000
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606115015
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606115015
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606122062
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606143031
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606146046
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606146046
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606146062
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606146062
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606146078
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606146078
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606146078
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606146093
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606146093
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347606146156
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606147437
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606147437
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606147437
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606147453
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606147453
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606147468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606147468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606147468
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347606147531
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606151765
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606153578
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606155187
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606161562
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606164718
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606167843
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606173109
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606173390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606173390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606173390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606173406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606173406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606173421
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1347606186265
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606186609
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1347606192937
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606193296
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606197437
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606198750
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606206046
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606207390
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606207406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606207406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606207406
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606207421
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606207421
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606211734
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606211953
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606216812
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606222281
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606233343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606248093
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606249703
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606249875
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606249875
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606249890
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606249890
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606249890
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606249906
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606249984
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606272812
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606273578
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606274078
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606274328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606274578
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606274828
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606275031
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606276828
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606276875
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606277515
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606277843
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606284093
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606286750
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606305406
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606306000
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606307156
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1347606314593
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606315234
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606317468
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606317484
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606317484
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606317484
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606317500
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606322750
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606322750
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606322765
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606322765
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606322781
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606322859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606339718
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\login_head.xml",1347606340593
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\more_select.xml",1347606340593
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_edit_login.xml",1347606340593
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\qq_btn_check.xml",1347606340609
+error,log,,,"search.xml: Failed to parse file C:\\Documents and Settings\\Administrator\\桌面\\Xueshijun_Workspaces\\Android_wordspace\\Eulerats\\res\\drawable-mdpi\\option.xml",1347606340687
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606340750
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606343265
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606344250
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606347921
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606362250
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606371437
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606377406
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606380593
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606390171
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1347606392984
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606396562
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606401218
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606406375
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606457468
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606460578
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606522187
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606528593
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606528796
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606530234
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606530515
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1347606530625
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606539328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1347606541140
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1347606541765
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1347606548937
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606552562
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347606554015
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1347606554031

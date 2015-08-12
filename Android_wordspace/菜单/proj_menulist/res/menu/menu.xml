@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item1" android:title="第一个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item2" android:title="第二个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item3" android:title="第三个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item4" android:title="第四个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item5" android:title="第五个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item6" android:title="第六个" android:icon="@drawable/icon" android:checkable="true"/>
+<group android:checkableBehavior="single">
+<item android:id="@+id/item7" android:title="第七个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item8" android:title="第八个" android:icon="@drawable/icon"/>
+<item android:id="@+id/item9" android:title="第九个" android:icon="@drawable/icon"/>
+</group>
+</menu>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1347066909718
+java.runtime.version,sysinfo,,,"1.7.0-b147",1347066909718
+java.specification.name,sysinfo,,,"Java Platform API Specification",1347066909718
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1347066909718
+java.specification.version,sysinfo,,,"1.7",1347066909718
+java.vendor,sysinfo,,,"Oracle Corporation",1347066909718
+java.version,sysinfo,,,"1.7.0",1347066909718
+java.vm.info,sysinfo,,,"mixed mode",1347066909718
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1347066909718
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1347066909718
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1347066909718
+java.vm.specification.version,sysinfo,,,"1.7",1347066909718
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1347066909718
+java.vm.version,sysinfo,,,"21.0-b17",1347066909718
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347066917875
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347066919109
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk",1347066924703
+started,bundle,org.eclipse.equinox.p2.ui,2.1.0.v20110601,"org.eclipse.equinox.p2.ui",1347066924734
+started,bundle,org.eclipse.ecf.identity,3.1.100.v20110531-2218,"org.eclipse.ecf.identity",1347066924781
+started,bundle,org.eclipse.ecf,3.1.300.v20110531-2218,"org.eclipse.ecf",1347066924828
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,4.0.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer.httpclient",1347066924843
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.2.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer",1347066924843
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347066926296
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1347066927468
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk.install",1347066927500

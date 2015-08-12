@@ -1,0 +1,258 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1353656311984
+stopped,bundle,org.eclipse.m2e.jdt,1.0.100.20110804-1717,"org.eclipse.m2e.jdt",1353656312000
+stopped,bundle,org.eclipse.m2e.launching,1.0.100.20110804-1717,"org.eclipse.m2e.launching",1353656312015
+stopped,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1353656312015
+stopped,bundle,overlay.com.android.ide.eclipse.adt.overlay,16.0.1.v201112150204-238534,"overlay.com.android.ide.eclipse.adt.overlay",1353656312046
+stopped,bundle,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.adt",1353656312046
+stopped,bundle,org.eclipse.ui.cheatsheets,3.4.100.v20110425,"org.eclipse.ui.cheatsheets",1353656312093
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.properties",1353767180296
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767186859
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767186875
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767186937
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767192671
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767195781
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767241906
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767288968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767293703
+started,bundle,org.eclipse.wb.os,1.1.0.r37x201109091012,"org.eclipse.wb.os",1353767294625
+started,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1353767295015
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767299640
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767311218
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353767311437
+activated,view,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.internal.introview",1353767315984
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353767316171
+closed,view,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.internal.introview",1353767316250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767322671
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767336359
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767336796
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767336812
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767336875
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767339250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767340078
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353767340281
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1353808542783
+started,bundle,org.eclipse.osgi,3.7.1.R37x_v20110808-1106,"org.eclipse.osgi",1353808542799
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20110502-1955,"org.eclipse.equinox.simpleconfigurator",1353808542877
+started,bundle,com.ibm.icu,4.4.2.v20110208,"com.ibm.icu",1353808542877
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1353808542908
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20110423-0524,"org.eclipse.core.contenttype",1353808542908
+started,bundle,org.eclipse.core.databinding.observable,1.4.0.I20110222-0800,"org.eclipse.core.databinding.observable",1353808542955
+started,bundle,org.eclipse.core.expressions,3.4.300.v20110228,"org.eclipse.core.expressions",1353808542955
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110505-0800,"org.eclipse.core.filebuffers",1353808542955
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1353808542955
+started,bundle,org.eclipse.core.jobs,3.5.100.v20110404,"org.eclipse.core.jobs",1353808542971
+started,bundle,org.eclipse.core.net,1.2.100.I20110511-0800,"org.eclipse.core.net",1353808542971
+started,bundle,org.eclipse.core.resources,3.7.100.v20110510-0712,"org.eclipse.core.resources",1353808542971
+started,bundle,org.eclipse.core.runtime,3.7.0.v20110110,"org.eclipse.core.runtime",1353808542971
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1353808543049
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,"org.eclipse.core.runtime.compatibility.auth",1353808543080
+started,bundle,org.eclipse.core.variables,3.2.500.v20110511,"org.eclipse.core.variables",1353808543080
+started,bundle,org.eclipse.debug.core,3.7.0.v20110518,"org.eclipse.debug.core",1353808543080
+started,bundle,org.eclipse.egit.core,1.1.0.201109151100-r,"org.eclipse.egit.core",1353808543080
+started,bundle,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui",1353808543080
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1353808543080
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1353808543080
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1353808543080
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1353808543080
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1353808543080
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1353808543080
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1353808543080
+started,bundle,org.eclipse.equinox.p2.core,2.1.0.v20110502-1955,"org.eclipse.equinox.p2.core",1353808543080
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110502-1955,"org.eclipse.equinox.p2.directorywatcher",1353808543080
+started,bundle,org.eclipse.equinox.p2.engine,2.1.0.v20110511,"org.eclipse.equinox.p2.engine",1353808543080
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110510,"org.eclipse.equinox.p2.metadata",1353808543111
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110511-1359,"org.eclipse.equinox.p2.metadata.repository",1353808543111
+started,bundle,org.eclipse.equinox.p2.operations,2.1.0.v20110511-1821,"org.eclipse.equinox.p2.operations",1353808543205
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110510,"org.eclipse.equinox.p2.reconciler.dropins",1353808543205
+started,bundle,org.eclipse.equinox.p2.repository,2.1.0.v20110601,"org.eclipse.equinox.p2.repository",1353808543268
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk.scheduler",1353808543268
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110502-1955,"org.eclipse.equinox.p2.updatechecker",1353808543346
+started,bundle,org.eclipse.equinox.preferences,3.4.1.R37x_v20110725,"org.eclipse.equinox.preferences",1353808543346
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1353808543346
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1353808543346
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1353808543361
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1353808543361
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1353808543361
+started,bundle,org.eclipse.jdt.core,3.7.1.v_B76_R37x,"org.eclipse.jdt.core",1353808543361
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110505-0800,"org.eclipse.jdt.core.manipulation",1353808543361
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20110803_r371,"org.eclipse.jdt.launching",1353808543361
+started,bundle,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui",1353808543361
+started,bundle,org.eclipse.jface,3.7.0.I20110522-1430,"org.eclipse.jface",1353808543377
+started,bundle,org.eclipse.jgit,1.1.0.201109151100-r,"org.eclipse.jgit",1353808543377
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1353808543377
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r371_v20110824-0800,"org.eclipse.ltk.core.refactoring",1353808543377
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1353808543377
+started,bundle,org.eclipse.m2e.logback.configuration,1.0.100.20110804-1717,"org.eclipse.m2e.logback.configuration",1353808543377
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.2.v20110903-0100,"org.eclipse.mylyn.bugzilla.core",1353808543377
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1353808543377
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1353808543377
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1353808543377
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1353808543377
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1353808543377
+started,bundle,org.eclipse.mylyn.context.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.context.ui",1353808543377
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1353808543377
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.2.v20110826-0100,"org.eclipse.mylyn.tasks.ui",1353808543377
+started,bundle,org.eclipse.search,3.7.0.v20110505-0800,"org.eclipse.search",1353808543377
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1353808543377
+started,bundle,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui",1353808543377
+started,bundle,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console",1353808543377
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110517-0800,"org.eclipse.ui.editors",1353808543377
+started,bundle,org.eclipse.ui.forms,3.5.100.v20110425,"org.eclipse.ui.forms",1353808543424
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.ide",1353808543424
+started,bundle,org.eclipse.ui.net,1.2.100.I20110511-0800,"org.eclipse.ui.net",1353808543424
+started,bundle,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views",1353808543424
+started,bundle,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"org.eclipse.ui.workbench",1353808543424
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.workbench.texteditor",1353808543424
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1353808543424
+started,bundle,org.eclipse.wb.core,1.1.0.r37x201109091012,"org.eclipse.wb.core",1353808543424
+started,bundle,org.eclipse.wb.core.lib,1.1.0.r37x201109091012,"org.eclipse.wb.core.lib",1353808543471
+started,bundle,org.eclipse.wst.server.core,1.1.303.v20110816_1717,"org.eclipse.wst.server.core",1353808543471
+started,bundle,org.eclipse.wst.sse.core,1.1.601.v201108151912,"org.eclipse.wst.sse.core",1353808543471
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1353808543471
+started,bundle,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.adt",1353808543471
+started,bundle,com.android.ide.eclipse.ddms,16.0.1.v201112150204-238534,"com.android.ide.eclipse.ddms",1353808543471
+os,sysinfo,,,"win32",1353808543471
+arch,sysinfo,,,"x86",1353808543471
+ws,sysinfo,,,"win32",1353808543471
+locale,sysinfo,,,"zh_CN",1353808543471
+processors,sysinfo,,,"4",1353808543471
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1353808543471
+java.runtime.version,sysinfo,,,"1.6.0_37-b06",1353808543471
+java.specification.name,sysinfo,,,"Java Platform API Specification",1353808543471
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1353808543471
+java.specification.version,sysinfo,,,"1.6",1353808543471
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1353808543471
+java.version,sysinfo,,,"1.6.0_37",1353808543471
+java.vm.info,sysinfo,,,"mixed mode",1353808543471
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1353808543471
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1353808543471
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1353808543471
+java.vm.specification.version,sysinfo,,,"1.0",1353808543471
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1353808543471
+java.vm.version,sysinfo,,,"20.12-b01",1353808543471
+started,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1353808543486
+started,bundle,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.ui",1353808543689
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1353808545814
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1353808545955
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1353808546455
+started,bundle,org.eclipse.wb.discovery.core,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.core",1353808546924
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1353808548018
+started,bundle,org.eclipse.wb.discovery.ui,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.ui",1353808548268
+started,bundle,com.android.ide.eclipse.traceview,16.0.1.v201112150204-238534,"com.android.ide.eclipse.traceview",1353808548893
+started,bundle,org.eclipse.team.cvs.ui,3.3.400.I20110510-0800,"org.eclipse.team.cvs.ui",1353808549096
+started,bundle,org.eclipse.equinox.p2.transport.ecf,1.0.0.v20110510,"org.eclipse.equinox.p2.transport.ecf",1353808549377
+started,bundle,org.eclipse.ecf.filetransfer,5.0.0.v20110531-2218,"org.eclipse.ecf.filetransfer",1353808549408
+started,bundle,org.eclipse.ecf.identity,3.1.100.v20110531-2218,"org.eclipse.ecf.identity",1353808549471
+started,bundle,org.eclipse.ecf,3.1.300.v20110531-2218,"org.eclipse.ecf",1353808550049
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,4.0.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer.httpclient",1353808550111
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.2.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer",1353808550127
+opened,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ProblemView",1353808550174
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/epp/updates/udc/content.xml.",1353808552736
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmf/updates/milestones/content.xml.",1353808553393
+error,log,,,"Unable to read repository at http://download.eclipse.org/rt/rap/1.3/runtime/content.xml.",1353808563283
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/emf/updates/content.xml.",1353808566893
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.300.v20110510,"org.eclipse.equinox.p2.updatesite",1353808567268
+started,bundle,org.eclipse.equinox.p2.publisher,1.2.0.v20110511,"org.eclipse.equinox.p2.publisher",1353808567393
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/site.xml.",1353808569268
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmf/update-site/releases/site.xml.",1353808571064
+error,log,,,"Unable to read repository at http://download.eclipse.org/sequoyah/updates/2.0/.",1353808592986
+error,log,,,"Unable to read repository at http://download.eclipse.org/tm/updates/3.3.",1353808593299
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emf/updates/.",1353808596736
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/papyrus/updates/milestones/0.8.",1353808597033
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/subversive/0.7/update-site/.",1353808600346
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/emft/jet/update-site/site.xml/content.xml.",1353808600611
+error,log,,,"Unable to read repository at http://dev.eclipse.org/svnroot/dsdp/org.eclipse.tm.tcf/releases/0.4.0/content.xml.",1353808601127
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/mdt/content.xml.",1353808622861
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.2.100.v20110510,"org.eclipse.equinox.p2.extensionlocation",1353808622908
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.1.101.R37x_v20110714,"org.eclipse.equinox.p2.artifact.repository",1353808623408
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,2.1.1.R37x_v20110815-0935,"org.eclipse.equinox.p2.touchpoint.eclipse",1353808623518
+started,bundle,org.eclipse.equinox.p2.publisher.eclipse,1.0.0.v20110511,"org.eclipse.equinox.p2.publisher.eclipse",1353808624080
+error,log,,,"Unable to read repository at http://downloads.myeclipseide.com/downloads/products/eworkbench/helios/enterprise-earlyaccess/compositeContent.xml.",1353808625955
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/gmf/update-site/releases/site.xml/content.xml.",1353808626424
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/updates/releases/content.xml.",1353808648096
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/helios/compositeContent.xml.",1353808649033
+error,log,,,"Unable to read repository at http://download.eclipse.org/eclipse/updates/3.7.",1353808658627
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/xpand/updates/.",1353808658924
+error,log,,,"Error reading update site http://download.eclipse.org/technology/emft/updates/.",1353808659236
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/ocl/3_0/updates/.",1353808659518
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2m/updates/releases/content.jar.",1353808660080
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/updates/content.xml.",1353808660674
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/mylyn/update/e3.4/compositeContent.xml.",1353808664299
+error,log,,,"Unable to read repository at http://download.eclipse.org/mat/1.1/update-site/content.xml.",1353808664783
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/3.6/compositeContent.xml.",1353808689408
+error,log,,,"Unable to read repository at http://download.eclipse.org/koneki/updates-nightly/ldt/content.xml.",1353808689861
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo/201106220900/content.xml.",1353808702768
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/ptp/updates/indigo/content.xml.",1353808703268
+error,log,,,"Unable to read repository at http://download.eclipse.org/mylyn/releases/indigo/compositeContent.xml.",1353808703830
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/actf/0.9/update-site/content.xml.",1353808704377
+error,log,,,"Unable to read repository at http://download.eclipse.org/birt/update-site/3.7/content.xml.",1353808704893
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/R20120119162704/repository.",1353808714111
+error,log,,,"Unable to read repository at http://www.mia-software.com/html/miaStudio/download/modisco/updates.",1353808714908
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/releases/.",1353808715205
+error,log,,,"Unable to read repository at http://download.eclipse.org/windowbuilder/WB/integration/3.7.",1353808715502
+error,log,,,"Error reading update site http://www.soyatec.com/update.",1353808715955
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/updates/releases/.",1353808716252
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/eef/updates/0.7.1/.",1353808716580
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/tmf/updates/compositeContent.xml.",1353808717064
+error,log,,,"Unable to read repository at http://www.eclipse.org/modeling/updates/compositeContent.xml.",1353808717658
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmt/modisco/updates/content.xml.",1353808718143
+error,log,,,"Unable to read repository at http://download.eclipse.org/datatools/updates/content.xml.",1353808742908
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/gef/updates/releases/content.xml.",1353808764783
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/updates/content.xml.",1353808765314
+error,log,,,"Unable to read repository at http://download.eclipse.org/releases/indigo/compositeContent.xml.",1353808765924
+error,log,,,"Error reading update site http://www.eclipse.org/modeling/emft/updates/.",1353808775236
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/cdt/releases/indigo.",1353808778596
+error,log,,,"Unable to read repository at http://download.eclipse.org/stp/updates/.",1353808778861
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/mdt/papyrus/updates/releases/.",1353808779174
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/emft/mwe/updates/.",1353808779752
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808949674
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808976830
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808981346
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808981346
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808981455
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808994049
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808994486
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808994689
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808994893
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808995268
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808995299
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808996736
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808997674
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808999143
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353808999580
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809006393
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809010689
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809010705
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809010846
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809011861
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809035330
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809036518
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809041518
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809042799
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809044814
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809045393
+started,bundle,org.eclipse.debug.ui,3.7.101.v20110817_r371,"org.eclipse.debug.ui",1353809048424
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1353809048705
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1353809048705
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1353809049002
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1353809049221
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809053830
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809058939
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1353809060861
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809062393
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809065174
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1353809065861
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809067455
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809092861
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809094924
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809096502
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1353809097799
+error,log,,,"Unable to connect to repository https://dl-ssl.google.com/android/eclipse/site.xml",1353809118346
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/orbit/downloads/drops/R20100519200754/repository/content.xml.",1353809130674
+error,log,,,"Unable to read repository at http://download.eclipse.org/jwt/update-site/content.xml.",1353809131127
+error,log,,,"Unable to read repository at http://download.eclipse.org/tools/gef/updates/milestones/content.xml.",1353809131564
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/gmf/updates/releases/content.xml.",1353809132033
+error,log,,,"Unable to read repository at file:/J:/Android/eclipse-java-indigo-SR1-win32/eclipse-java-indigo-SR1-win32/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1047818479.xml.",1353809132689
+error,log,,,"Unable to read repository at http://download.eclipse.org/modeling/m2t/updates/.",1353809132986
+error,log,,,"Unable to read repository at http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo.",1353809133268

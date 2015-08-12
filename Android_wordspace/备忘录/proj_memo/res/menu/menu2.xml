@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/save" android:title="保存" android:icon="@drawable/btn_star_big_on"/>
+<item android:id="@+id/update" android:title="确定修改" android:icon="@drawable/btn_star_big_on"/>
+<item android:id="@+id/cancel" android:title="取消" android:icon="@drawable/btn_star_big_on"/>
+</menu>
